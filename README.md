@@ -39,12 +39,12 @@
 
 <div align="center">
   <a href="https://github.com/aditasha/GitHubUserApp" margin=250px>
-      <img src="resources/Demo.gif" alt="Demo" width=25% height=25%>
+      <img src="resources/GithubUser.gif" alt="Demo" width=50% height=50%>
   </a>
 </div>
 <br />
 
-This project was created using Kotlin, utilizing fragments from Android Studio and Google Firebase for authentication, database and resource storing for the classes and users account.
+This project was created using Kotlin, utilizing RecylerView, Retrofit and SearchView to show, collect and search data, ViewPager 2 to navigate between followers/following tab, MVVM Architecture, Room to store favorite user and Data Store Preferences to store themes.
 
 
 
@@ -53,26 +53,21 @@ This project was created using Kotlin, utilizing fragments from Android Studio a
 
 * [Kotlin](https://kotlinlang.org/)
 * [Android Studio](https://developer.android.com/studio)
-* [Firebase](https://firebase.google.com/)
-
-
-
-<!-- ROADMAP -->
-## TO-DO
-
-- [ ] Add profile picture in home and navdraw
-- [ ] Redesign UI to better suit Material Design
-
+* [RecyclerView](https://developer.android.com/jetpack/androidx/releases/recyclerview)
+* [Retrofit](https://square.github.io/retrofit/)
+* [Glide](https://github.com/bumptech/glide)
+* [SearchView](https://developer.android.com/reference/android/widget/SearchView)
+* [ViewPager2](https://developer.android.com/jetpack/androidx/releases/viewpager2)
+* MVVM Architecture
+* [Room](https://developer.android.com/jetpack/androidx/releases/room)
+* [DataStore](https://developer.android.com/topic/libraries/architecture/datastore)
 
 <!-- CONTACT -->
 ## Contact
 
 - Aditasha | [Twitter](https://twitter.com/aditashaa) | aditasha9@gmail.com
-- Iqbal | iqbalardiansyah21@gmail.com
-- Bayu | Sbayu875@gmail.com
-- Hafid | zisnura20@student.ub.ac.id
 
-Project Link: [https://github.com/aditasha/coolyeah](https://github.com/aditasha/coolyeah)
+Project Link: [https://github.com/aditasha/GitHubUserApp](https://github.com/aditasha/GitHubUserApp)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
