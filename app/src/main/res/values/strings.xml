@@ -1,0 +1,29 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">GitHub User App (Navigation and API)</string>
+
+    <string name="picture" tools:keep="@string/picture">Picture</string>
+    <string name="building" tools:keep="@string/building">Building Icon</string>
+    <string name="name" tools:keep="@string/name">Name</string>
+    <string name="username" tools:keep="@string/username">Username</string>
+    <string name="followers" tools:keep="@string/followers">Followers\n1527</string>
+    <string name="following" tools:keep="@string/following">Following\n1527</string>
+    <string name="location" tools:keep="@string/location">Location</string>
+    <string name="company" tools:keep="@string/company">Company</string>
+    <string name="repo" tools:keep="@string/repo">Repository</string>
+    <string name="n_repo" tools:keep="@string/n_repo">N_repo</string>
+
+    <string name="search" tools:keep="@string/search">Search</string>
+    <string name="search_hint" tools:keep="@string/search_hint">Search Github\'s username</string>
+
+    <string name="search_activity">Github User\'s Search</string>
+    <string name="favorite_activity">Favorite User\'s</string>
+
+    <string name="fragment_followers">Followers</string>
+    <string name="fragment_following">Following</string>
+
+    <string name="error">Error</string>
+    <string name="tab">Tab</string>
+    <string name="retry">Retry</string>
+
+    <string name="theme_switch">Theme Switcher</string>
+</resources>

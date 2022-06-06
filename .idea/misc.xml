@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Bangkit/AndroidStudioProjects/FundamentalAplikasiAndroid/GitHubUserAppNavigationandAPI/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1235" />
+        <entry key="..\:/Bangkit/AndroidStudioProjects/FundamentalAplikasiAndroid/GitHubUserAppNavigationandAPI/app/src/main/res/layout/activity_detail_user.xml" value="0.25" />
+        <entry key="..\:/Bangkit/AndroidStudioProjects/FundamentalAplikasiAndroid/GitHubUserAppNavigationandAPI/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Bangkit/AndroidStudioProjects/FundamentalAplikasiAndroid/GitHubUserAppNavigationandAPI/app/src/main/res/layout/fragment_follow.xml" value="0.22521367521367522" />
+        <entry key="..\:/Bangkit/AndroidStudioProjects/FundamentalAplikasiAndroid/GitHubUserAppNavigationandAPI/app/src/main/res/layout/layout_user.xml" value="0.20512820512820512" />
+        <entry key="..\:/Bangkit/AndroidStudioProjects/FundamentalAplikasiAndroid/GitHubUserAppNavigationandAPI/app/src/main/res/menu/menu.xml" value="0.22521367521367522" />
+        <entry key="..\:/Bangkit/AndroidStudioProjects/FundamentalAplikasiAndroid/GitHubUserAppNavigationandAPI/app/src/main/res/menu/theme.xml" value="0.22521367521367522" />
+        <entry key="app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.1615" />
+        <entry key="app/src/main/res/drawable/ic_day_mode.xml" value="0.2935" />
+        <entry key="app/src/main/res/drawable/ic_domain_dark.xml" value="0.2935" />
+        <entry key="app/src/main/res/drawable/ic_domain_light.xml" value="0.2935" />
+        <entry key="app/src/main/res/drawable/ic_favorite.xml" value="0.2935" />
+        <entry key="app/src/main/res/drawable/ic_favorite_border.xml" value="0.2935" />
+        <entry key="app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.2935" />
+        <entry key="app/src/main/res/drawable/ic_location_dark.xml" value="0.2935" />
+        <entry key="app/src/main/res/drawable/ic_location_light.xml" value="0.2935" />
+        <entry key="app/src/main/res/drawable/ic_night_mode.xml" value="0.2935" />
+        <entry key="app/src/main/res/layout-land/activity_detail_user.xml" value="0.21875" />
+        <entry key="app/src/main/res/layout/activity_detail_user.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/activity_favorite_user.xml" value="0.264" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.2653846153846154" />
+        <entry key="app/src/main/res/layout/fragment_follow.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.2653846153846154" />
+        <entry key="app/src/main/res/layout/layout_follow.xml" value="0.2653846153846154" />
+        <entry key="app/src/main/res/layout/layout_user.xml" value="0.536" />
+        <entry key="app/src/main/res/menu/favorite.xml" value="0.2653846153846154" />
+        <entry key="app/src/main/res/menu/options_menu.xml" value="0.2653846153846154" />
+        <entry key="app/src/main/res/menu/theme.xml" value="0.12435897435897436" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2935" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2935" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

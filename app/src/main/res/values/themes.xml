@@ -1,0 +1,76 @@
+<resources>
+
+    <style name="Theme.GitHubUserAppNavigationAndApi" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/dark_gray</item>
+        <item name="colorPrimaryVariant">@color/light_gray</item>
+        <item name="colorOnPrimary">@color/github_white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/github_orange</item>
+        <item name="colorSecondaryVariant">@color/github_red</item>
+        <item name="colorOnSecondary">@color/github_white</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimary</item>
+        <item name="actionBarStyle">@style/ActionBar</item>
+        <!-- Customize your theme here. -->
+        <item name="android:textColor">@color/dark_gray</item>
+        <item name="fontFamily">@font/roboto</item>
+        <item name="android:fontFamily">@font/roboto</item>
+
+        <!-- enable window content transitions -->
+        <item name="android:windowActivityTransitions">true</item>
+        <item name="android:windowAnimationStyle">@style/Anim</item>
+    </style>
+
+    <style name="Anim">
+        <item name="android:activityOpenEnterAnimation">@anim/slide_in_right</item>
+        <item name="android:activityOpenExitAnimation">@anim/slide_out_left</item>
+        <item name="android:activityCloseEnterAnimation">@anim/slide_in_left</item>
+        <item name="android:activityCloseExitAnimation">@anim/slide_out_right</item>
+    </style>
+
+    <style name="AnimVertical">
+        <item name="android:activityOpenEnterAnimation">@anim/slide_in_bottom</item>
+        <item name="android:activityOpenExitAnimation">@anim/slide_out_top</item>
+        <item name="android:activityCloseEnterAnimation">@anim/slide_in_top</item>
+        <item name="android:activityCloseExitAnimation">@anim/slide_out_bottom</item>
+    </style>
+
+    <style name="AnimStyleVertical">
+        <item name="android:windowAnimationStyle">@style/AnimVertical</item>
+    </style>
+
+    <style name="Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/dark_gray</item>
+
+        <item name="windowSplashScreenAnimatedIcon">@mipmap/ic_launcher</item>
+        <item name="windowSplashScreenAnimationDuration">200</item>
+
+        <item name="postSplashScreenTheme">@style/Theme.GitHubUserAppNavigationAndApi</item>
+    </style>
+
+    <style name="ActionBar" parent="@style/Widget.MaterialComponents.ActionBar.Solid">
+        <item name="android:elevation">0dp</item>
+        <item name="elevation">0dp</item>
+    </style>
+
+    <style name="InverseTextColor">
+        <item name="android:textColor">?attr/colorOnPrimary</item>
+    </style>
+
+    <style name="BackgroundDetail">
+        <item name="android:background">?attr/colorPrimary</item>
+    </style>
+
+    <style name="BackgroundFragment">
+        <item name="android:background">#FFFFFF</item>
+    </style>
+
+    <style name="Location">
+        <item name="srcCompat">@drawable/ic_location_light</item>
+    </style>
+
+    <style name="Company">
+        <item name="srcCompat">@drawable/ic_domain_light</item>
+    </style>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <color name="light_gray">#757575</color>
+    <color name="dark_gray">#333</color>
+    <color name="github_white">#FAFAFA</color>
+    <color name="github_silver">#F5F5F5</color>
+    <color name="github_red">#BD2C00</color>
+    <color name="github_orange">#C9510C</color>
+    <color name="default_dark">#121212</color>
+</resources>

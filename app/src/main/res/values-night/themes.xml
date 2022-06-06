@@ -1,0 +1,33 @@
+<resources>
+
+    <style name="Theme.GitHubUserAppNavigationAndApi" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/dark_gray</item>
+        <item name="colorPrimaryVariant">@color/light_gray</item>
+        <item name="colorOnPrimary">@color/github_silver</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/github_orange</item>
+        <item name="colorSecondaryVariant">@color/github_white</item>
+        <item name="colorOnSecondary">@color/github_silver</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/default_dark</item>
+        <!-- Customize your theme here. -->
+        <item name="android:textColor">@color/github_silver</item>
+    </style>
+
+    <style name="BackgroundDetail">
+        <item name="android:background">@color/default_dark</item>
+    </style>
+
+    <style name="BackgroundFragment">
+        <item name="android:background">?attr/colorPrimary</item>
+    </style>
+
+    <style name="Location">
+        <item name="srcCompat">@drawable/ic_location_dark</item>
+    </style>
+
+    <style name="Company">
+        <item name="srcCompat">@drawable/ic_domain_dark</item>
+    </style>
+</resources>
