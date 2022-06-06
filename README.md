@@ -20,16 +20,16 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/aditasha/coolyeah">
+  <a href="https://github.com/aditasha/github-user-app">
     <img src="resources/icon.svg" alt="Logo" width=30% height=30%>
   </a>
 
   <p align="center">
     Github User App features an application where we can find any Github user information provided by Github Api
     <br /><br />
-    <a href="https://github.com/aditasha/GitHubUserApp/issues">Report Bug</a>
+    <a href="https://github.com/aditasha/github-user-app/issues">Report Bug</a>
     ·
-    <a href="https://github.com/aditasha/GitHubUserApp/issues">Request Feature</a>
+    <a href="https://github.com/aditasha/github-user-app/issues">Request Feature</a>
   </p>
 </div>
 
@@ -38,7 +38,7 @@
 ## About The Project
 
 <div align="center">
-  <a href="https://github.com/aditasha/GitHubUserApp" margin=250px>
+  <a href="https://github.com/aditasha/github-user-app" margin=250px>
       <img src="resources/GithubUser.gif" alt="Demo" width=50% height=50%>
   </a>
 </div>
@@ -67,7 +67,7 @@ This project was created using Kotlin, utilizing RecylerView, Retrofit and Searc
 
 - Aditasha | [Twitter](https://twitter.com/aditashaa) | aditasha9@gmail.com
 
-Project Link: [https://github.com/aditasha/GitHubUserApp](https://github.com/aditasha/GitHubUserApp)
+Project Link: [https://github.com/aditasha/github-user-app](https://github.com/aditasha/github-user-app)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
