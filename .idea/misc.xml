@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Bangkit/AndroidStudioProjects/FundamentalAplikasiAndroid/GitHubUserAppNavigationandAPI/app/src/main/res/drawable/ic_favorite_border.xml" value="0.236" />
         <entry key="..\:/Bangkit/AndroidStudioProjects/FundamentalAplikasiAndroid/GitHubUserAppNavigationandAPI/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1235" />
+        <entry key="..\:/Bangkit/AndroidStudioProjects/FundamentalAplikasiAndroid/GitHubUserAppNavigationandAPI/app/src/main/res/drawable/ic_location_dark.xml" value="0.236" />
         <entry key="..\:/Bangkit/AndroidStudioProjects/FundamentalAplikasiAndroid/GitHubUserAppNavigationandAPI/app/src/main/res/layout/activity_detail_user.xml" value="0.25" />
         <entry key="..\:/Bangkit/AndroidStudioProjects/FundamentalAplikasiAndroid/GitHubUserAppNavigationandAPI/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/Bangkit/AndroidStudioProjects/FundamentalAplikasiAndroid/GitHubUserAppNavigationandAPI/app/src/main/res/layout/fragment_follow.xml" value="0.22521367521367522" />
