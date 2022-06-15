@@ -5,6 +5,10 @@ plugins {
     id 'kotlin-kapt'
 }
 
+def apiPropertiesFile = rootProject.file("api.properties")
+def apiProperties = new Properties()
+apiProperties.load(new FileInputStream(apiPropertiesFile))
+
 android {
     compileSdk 31
 
@@ -17,7 +21,7 @@ android {
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
 
-        buildConfigField "String", "TOKEN", "\"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\""
+        buildConfigField "String", "TOKEN", apiProperties['TOKEN']
     }
 
     buildFeatures {
